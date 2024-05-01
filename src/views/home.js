@@ -31,6 +31,7 @@ const Home = (props) => {
               type="number"
               required="true"
               placeholder="Enter Discord ID"
+              disabled="true"
               className="home-textinput input"
             />
             <button
